@@ -1,4 +1,4 @@
-package Multiprogramming;
+package Multithreading;
 
 
 class MyThreadClass extends Thread
