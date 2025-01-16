@@ -1,4 +1,4 @@
-package Multiprogramming;
+package Multithreading;
 
 public class MyThread1 extends Thread
 {
