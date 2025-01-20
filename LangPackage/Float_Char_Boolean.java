@@ -27,7 +27,7 @@ public class Float_Char_Boolean
         Boolean h=false;
         Boolean i=Boolean.parseBoolean("true");
 
-        
+
 
 
 
