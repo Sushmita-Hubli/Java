@@ -20,7 +20,7 @@ public class String_StringBuilder_StringBuffer
         System.out.println(s1+"\n"+s2+"\n"+s3);
         //here we observe that World is not concatenated with the String pbject s1 because it is immutable whereas it gets appended with the object of StringBuffer and StringBuilder because they are mutable
 
-        
+
 
     }
 }
