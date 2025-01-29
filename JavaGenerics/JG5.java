@@ -80,6 +80,6 @@ MyArray3 m2=new MyArray3();
         MyArray5<Float> m4=new MyArray5<>();   //this will not cause any error
 
 
-        
+
     }
 }
