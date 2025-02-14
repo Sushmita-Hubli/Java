@@ -30,5 +30,15 @@ public class Basic_Info
                 "\n" +
                 "\n" +
                 "\n");
+
+
+        System.out.println("complete inheritance cycle of Collection Frame work is as follows:\n" +
+                "Iterable interface<--Collection interface<--(List interface<--(ArrayList class),(LinkedList class),(Vector class),(Stack class)),(Queue interface<--(Deque interface<--ArrayDeque class),(PriorityQueue class)),(Set interface<--(sortedSet interface<--TreeSet class),(HashSet class),(LinkedHashSet))" +
+                "\nMap interface<--(sortedMap interface<--TreeMap class),(HashMap class),(LinkedHashMap class),(HashTable class)");
+
+        System.out.println("Few of the important methods of Collection interface which is Parent of List interface,Queue interface and Set interface are:\n" +
+                "add(E e),addAll(Collection<E> c),remove(Object o),removeAll(Collection<E> c),retainAll(Collection<E> c),clear(),isEmpty(),contains(Object o),containsAll(Collection<E> c),equals(Object o),size(),iterator(),toArray()");
+
+
     }
 }
